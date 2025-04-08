@@ -1,13 +1,13 @@
 import Botao from "./componentes/Botao"
 import Caixa from "./componentes/Caixa"
 import Etiqueta from "./componentes/Etiqueta"
-
+ 
 const App = () => {
-
+ 
   return (
     <>
       Aula de Componentes
-
+ 
       <Etiqueta texto="Texto enviado" />
       <Etiqueta />
       <Etiqueta />
@@ -18,6 +18,6 @@ const App = () => {
     </>
   )
 }
-
-export default App 
-
+ 
+export default App
+ 
