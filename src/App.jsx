@@ -4,6 +4,7 @@ import Etiqueta from "./componentes/Etiqueta"
  
 const App = () => {
  
+  
   return (
     <>
       Aula de Componentes
